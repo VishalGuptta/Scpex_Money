@@ -1,0 +1,25 @@
+Hi ,
+
+Please find the below observed issue:
+
+Title
+There are certain options missing under "Add recipient" in ScopeX.
+
+Environment: Androied 
+
+STEPS TO REPRODUCE:
+1.Install the ScopeX App in Mobile.
+2.Register your account.
+3.Click on Recipients -> Add recipient
+4.Observe UI.
+
+EXPECTED RESULT:  
+In ScopeX, all the options should be available under add recipient.
+
+ACTUAL RESULT:
+There are certain choices missing under "Add recipient" in ScopeX.
+
+Screenshot:
+Screenshot attached in "Scopex_AddRecipient_Issue"
+
+Severity: High
